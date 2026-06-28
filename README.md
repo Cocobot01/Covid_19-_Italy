@@ -1,10 +1,10 @@
 # COVID-19 Data Analysis: Key Conclusions
 
-## How to Run
-pip install pandas matplotlib seaborn
+### How to Run
+###pip install pandas matplotlib seaborn
 jupyter notebook Covid19.ipynb
 
-Based on the visualizations generated in this dataset, we can observe several critical trends regarding the spread and impact of the COVID-19 pandemic in Italy:
+###Based on the visualizations generated in this dataset, we can observe several critical trends regarding the spread and impact of the COVID-19 pandemic in Italy:
 
 ### 1. The Pandemic Happened in Distinct "Waves"
 The scatterplots capture the cyclical nature of the virus. Instead of following a straight linear progression, the data forms distinct, swirling loops. This visualizes the multiple surges of the pandemic: hospitalizations would rapidly spike, eventually peak, and drop back down as the wave subsided, only to repeat months later.
