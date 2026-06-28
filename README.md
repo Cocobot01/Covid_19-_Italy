@@ -1,5 +1,9 @@
 # COVID-19 Data Analysis: Key Conclusions
 
+## How to Run
+pip install pandas matplotlib seaborn
+jupyter notebook Covid19.ipynb
+
 Based on the visualizations generated in this dataset, we can observe several critical trends regarding the spread and impact of the COVID-19 pandemic in Italy:
 
 ### 1. The Pandemic Happened in Distinct "Waves"
